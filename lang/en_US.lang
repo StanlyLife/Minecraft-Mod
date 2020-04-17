@@ -1,0 +1,62 @@
+item.Obsidian_sword.name=Obsidian Sword
+item.Obsidian_pickaxe.name=Obsidian Pickaxe
+item.Obsidian_axe.name=Obsidian Axe
+item.Obsidian_shovel.name=Obsidian Shovel
+
+item.Titanium_sword.name=Titanium Sword
+item.Titanium_pickaxe.name=Titanium Pickaxe
+item.Titanium_axe.name=Titanium Axe
+item.Titanium_shovel.name=Titanium Shovel
+
+item.Wurtzite_sword.name=Wurtzite Sword
+item.Wurtzite_pickaxe.name=Wurtzite Pickaxe
+item.Wurtzite_axe.name=Wurtzite Axe
+item.Wurtzite_shovel.name=Wurtzite Shovel
+
+item.Lonsdaleite_sword.name=Lonsdaleite Sword
+item.Lonsdaleite_pickaxe.name=Lonsdaleite Pickaxe
+item.Lonsdaleite_axe.name=Lonsdaleite Axe
+item.Lonsdaleite_shovel.name=Lonsdaleite Shovel
+
+item.Graphene_sword.name=Graphene Sword
+item.Graphene_pickaxe.name=Graphene Pickaxe
+item.Graphene_axe.name=Graphene Axe
+item.Graphene_shovel.name=Graphene Shovel
+
+item.Obsidian_boots.name=Obsidian Boots
+item.Titanium_boots.name=Titanium Boots
+item.Wurtzite_boots.name=wurtzite Boots
+item.Lonsdaleite_boots.name=Lonsdaleite Boots
+item.Graphene_boots.name=Graphene Boots
+
+item.Obsidian_legs.name=Obsidian Leggings
+item.Titanium_legs.name=Titanium Leggings
+item.Wurtzite_legs.name=Wurtzite Leggings
+item.Lonsdaleite_legs.name=Lonsdaleite Leggings
+item.Graphene_legs.name=Graphene Leggings
+
+item.Obsidian_chestplate.name=Obsidian Chestplate
+item.Titanium_chestplate.name=Titanium Chestplate
+item.Wurtzite_chestplate.name=Wurtzite Chestplate
+item.Lonsdaleite_chestplate.name=Lonsdaleite Chestplate
+item.Graphene_chestplate.name=Graphene Chestplate
+
+item.Obsidian_helm.name=Obsidian Helmet
+item.Titanium_helm.name=Titanium Helmet
+item.Wurtzite_helm.name=Wurtzite Helmet
+item.Lonsdaleite_helm.name=Lonsdaleite Helmet
+item.Graphene_helm.name=Graphene Helmet
+
+item.Graphene.name=Graphene
+item.Wurtzite.name=Wurtzite
+item.Lonsdaleite_ingot.name=Lonsdaleite Ingot
+item.Titanium_ingot.name=Titanium Ingot
+
+tile.Obsidian_block.name=Obsidian BLock
+tile.Exp_ore.name=Experience Ore
+tile.Titanium_ore.name=Titanium Ore
+tile.Wurtzite_ore.name=Wurtzite Ore
+tile.Lonsdaleite_ore.name=Lonsdaleite Ore
+tile.Graphene_ore.name=Graphene Ore
+
+itemGroup.Life_Ores=Life Ores
